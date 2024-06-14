@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="25" failures="0" name="TestSuite" time="118.807" errors="0" skipped="9">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.18+10-adhoc..jdk11u"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\kuldeepmishra\eclipse-workspace23\flipkartAutomate"/>
+    <property name="java.vm.vendor" value="OpenLogic"/>
+    <property name="java.vendor.url" value="https://openlogic.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\kuldeepmishra\eclipse-workspace23\flipkartAutomate"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.18+10-adhoc..jdk11u"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\KULDEE~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\Program Files\maven\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot\\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\maven\apache-maven-3.6.3\bin;C:\Program Files\maven\apache-maven-3.6.3;C:\.Net &amp; Java Software\Open JKD -11\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\kuldeepmishra\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kuldeepmishra\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="C:\Program Files\maven\apache-maven-3.6.3\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\maven\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\kuldeepmishra"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="kuldeepmishra"/>
+    <property name="java.class.path" value="C:\Program Files\maven\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="C:\Program Files\OpenJDK\jdk-11.0.18.10-hotspot"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.18"/>
+    <property name="java.vendor" value="OpenLogic"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="maven.home" value="C:\Program Files\maven\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.vendor.url.bug" value="https://techsupport.roguewave.com/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="OpenLogic-OpenJDK"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="flipkartAutomate.testFiles.AddToCartTest" name="testAddToCart" time="8.107"/>
+  <testcase classname="flipkartAutomate.testFiles.CartLoginTest" name="setup" time="9.306">
+    <skipped/>
+    <system-out>skipping test :testCartLogin
+</system-out>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.CartLoginTest" name="testCartLogin" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.CartLoginTest" name="teardown" time="0.005">
+    <skipped/>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.CategoryDropdownTest" name="setup" time="0.008">
+    <skipped/>
+    <system-out>skipping test :testCategory
+</system-out>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.CategoryDropdownTest" name="testCategory" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.CategoryDropdownTest" name="teardown" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.DownloadOptionTest" name="testAndroidDownloadOption" time="3.361"/>
+  <testcase classname="flipkartAutomate.testFiles.DownloadOptionTest" name="testIosDownloadOption" time="1.424"/>
+  <testcase classname="flipkartAutomate.testFiles.FlipkartAdvertiseTest" name="testAdvertise" time="3.412"/>
+  <testcase classname="flipkartAutomate.testFiles.ForgetPasswordTest" name="testForgetPassword" time="10.133"/>
+  <testcase classname="flipkartAutomate.testFiles.HelplineFunctionalityTest" name="testHelplineFeature" time="2.903"/>
+  <testcase classname="flipkartAutomate.testFiles.HelplineFunctionalityTest" name="testHelplineDisagreeFeature" time="2.793"/>
+  <testcase classname="flipkartAutomate.testFiles.LoginTest" name="testInvalidLogin" time="4.406"/>
+  <testcase classname="flipkartAutomate.testFiles.PincodeTest" name="testPincode" time="8.153"/>
+  <testcase classname="flipkartAutomate.testFiles.PincodeTest" name="testIncorrectPincode" time="3.771"/>
+  <testcase classname="flipkartAutomate.testFiles.ProductDetailTest" name="testProductDetails" time="8.698"/>
+  <testcase classname="flipkartAutomate.testFiles.ProductSearchTest" name="testSearchData" time="4.386"/>
+  <testcase classname="flipkartAutomate.testFiles.ProductSearchTest" name="testInvalidSearchData" time="3.797"/>
+  <testcase classname="flipkartAutomate.testFiles.RegisterSellerTest" name="testSellerRegistration" time="10.088"/>
+  <testcase classname="flipkartAutomate.testFiles.RemoveFromCartTest" name="setup" time="10.58">
+    <skipped/>
+    <system-out>skipping test :testRemoveFromCart
+</system-out>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.RemoveFromCartTest" name="testRemoveFromCart" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.RemoveFromCartTest" name="teardown" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="flipkartAutomate.testFiles.SellerTest" name="testSellerFunctionality" time="1.307"/>
+  <testcase classname="flipkartAutomate.testFiles.SignUpTest" name="testSignUp" time="22.163"/>
+</testsuite>
